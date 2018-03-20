@@ -1,0 +1,15 @@
+{
+  "name": "zadanie_16_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
